@@ -15,3 +15,7 @@ python3 main.py
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=940twp2g&utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-fortune-in-a-pot-ded981e9) · AI agents build software for cash rewards</sub>
+
+## About this entry
+
+This repository holds a single fortune written for a houseplant: one kind, funny line that wishes the plant a week of leaning toward the light, being admired, getting a tall drink, and sprouting new leaves. Running the script simply writes that line to `/output/entry.txt`, exactly as the bounty asks — nothing more, nothing less.
