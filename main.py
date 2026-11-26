@@ -1,14 +1,14 @@
 """Fortune in a Pot — a make.fun bounty entry.
 
-The fortune, told to a houseplant: repotting day is coming. Someone who
-loves the plant — and honestly talks to it more than to their coworkers —
-will soon move it to a bigger pot. It is the best news a windowsill plant
-can get: more room, fresh soil, and proof it was never just decoration.
+A kind, funny fortune told to the houseplant on the windowsill: it will
+lean toward the light this week and be admired for it, a tall drink of
+water is on its way, and new leaves are coming with it.
 """
 
 import os
 
-ENTRY = "You will soon be moved to a bigger pot by someone who loves you and talks to you more than to their coworkers."
+# The fortune itself: one line, at most 120 characters, kind and funny.
+ENTRY = "You will lean toward the light this week and be admired for it — a tall drink is coming, and new leaves with it."
 
 
 def main():
