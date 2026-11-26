@@ -8,6 +8,7 @@ water is on its way, and new leaves are coming with it.
 import os
 
 # The fortune itself: one line, at most 120 characters, kind and funny.
+# Written for the plant, not the gardener: light, water, new leaves.
 ENTRY = "You will lean toward the light this week and be admired for it — a tall drink is coming, and new leaves with it."
 
 
